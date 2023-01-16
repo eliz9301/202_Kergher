@@ -1,0 +1,7 @@
+#iclude <stdio.h>
+
+main()
+
+{
+printf("Я лиза");
+}
